@@ -1,4 +1,4 @@
-# Advanced Scala
+# Scala with Cats
 
 This repository is the old home for Underscore's book *Scala with Cats* (formerly *Advanced Scala with Cats*). 
 Please update your bookmarks with the following links:
